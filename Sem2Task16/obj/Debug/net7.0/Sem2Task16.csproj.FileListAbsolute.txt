@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem2Task16\bin\Debug\net7.0\Sem2Task16.exe
+F:\GB\c#\gruppa4972\Sem2Task16\bin\Debug\net7.0\Sem2Task16.deps.json
+F:\GB\c#\gruppa4972\Sem2Task16\bin\Debug\net7.0\Sem2Task16.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem2Task16\bin\Debug\net7.0\Sem2Task16.dll
+F:\GB\c#\gruppa4972\Sem2Task16\bin\Debug\net7.0\Sem2Task16.pdb
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.dll
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\refint\Sem2Task16.dll
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.pdb
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\Sem2Task16.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem2Task16\obj\Debug\net7.0\ref\Sem2Task16.dll
