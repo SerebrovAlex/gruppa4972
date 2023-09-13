@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите день недели, ");
+﻿Console.WriteLine("Введите номер дня недели");
 int day = int.Parse(Console.ReadLine() ?? "0");
 string[] dayOfWeek = new string[7];
 dayOfWeek[0] = "Понедельник";
