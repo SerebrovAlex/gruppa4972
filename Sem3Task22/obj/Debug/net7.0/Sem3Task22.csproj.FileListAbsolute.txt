@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem3Task22\bin\Debug\net7.0\Sem3Task22.exe
+F:\GB\c#\gruppa4972\Sem3Task22\bin\Debug\net7.0\Sem3Task22.deps.json
+F:\GB\c#\gruppa4972\Sem3Task22\bin\Debug\net7.0\Sem3Task22.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem3Task22\bin\Debug\net7.0\Sem3Task22.dll
+F:\GB\c#\gruppa4972\Sem3Task22\bin\Debug\net7.0\Sem3Task22.pdb
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.dll
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\refint\Sem3Task22.dll
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.pdb
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\Sem3Task22.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem3Task22\obj\Debug\net7.0\ref\Sem3Task22.dll
