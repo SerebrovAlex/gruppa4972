@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem3Task19\bin\Debug\net7.0\Sem3Task19.exe
+F:\GB\c#\gruppa4972\Sem3Task19\bin\Debug\net7.0\Sem3Task19.deps.json
+F:\GB\c#\gruppa4972\Sem3Task19\bin\Debug\net7.0\Sem3Task19.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem3Task19\bin\Debug\net7.0\Sem3Task19.dll
+F:\GB\c#\gruppa4972\Sem3Task19\bin\Debug\net7.0\Sem3Task19.pdb
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.dll
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\refint\Sem3Task19.dll
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.pdb
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\Sem3Task19.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem3Task19\obj\Debug\net7.0\ref\Sem3Task19.dll

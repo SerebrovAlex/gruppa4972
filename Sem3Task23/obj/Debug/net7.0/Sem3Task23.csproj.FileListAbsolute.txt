@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem3Task23\bin\Debug\net7.0\Sem3Task23.exe
+F:\GB\c#\gruppa4972\Sem3Task23\bin\Debug\net7.0\Sem3Task23.deps.json
+F:\GB\c#\gruppa4972\Sem3Task23\bin\Debug\net7.0\Sem3Task23.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem3Task23\bin\Debug\net7.0\Sem3Task23.dll
+F:\GB\c#\gruppa4972\Sem3Task23\bin\Debug\net7.0\Sem3Task23.pdb
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.dll
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\refint\Sem3Task23.dll
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.pdb
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\Sem3Task23.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem3Task23\obj\Debug\net7.0\ref\Sem3Task23.dll

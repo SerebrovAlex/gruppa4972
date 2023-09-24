@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem4Task24\bin\Debug\net7.0\Sem4Task24.exe
+F:\GB\c#\gruppa4972\Sem4Task24\bin\Debug\net7.0\Sem4Task24.deps.json
+F:\GB\c#\gruppa4972\Sem4Task24\bin\Debug\net7.0\Sem4Task24.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem4Task24\bin\Debug\net7.0\Sem4Task24.dll
+F:\GB\c#\gruppa4972\Sem4Task24\bin\Debug\net7.0\Sem4Task24.pdb
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.dll
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\refint\Sem4Task24.dll
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.pdb
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\Sem4Task24.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem4Task24\obj\Debug\net7.0\ref\Sem4Task24.dll

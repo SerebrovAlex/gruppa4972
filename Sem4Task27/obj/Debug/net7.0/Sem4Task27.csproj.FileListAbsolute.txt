@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem4Task27\bin\Debug\net7.0\Sem4Task27.exe
+F:\GB\c#\gruppa4972\Sem4Task27\bin\Debug\net7.0\Sem4Task27.deps.json
+F:\GB\c#\gruppa4972\Sem4Task27\bin\Debug\net7.0\Sem4Task27.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem4Task27\bin\Debug\net7.0\Sem4Task27.dll
+F:\GB\c#\gruppa4972\Sem4Task27\bin\Debug\net7.0\Sem4Task27.pdb
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.dll
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\refint\Sem4Task27.dll
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.pdb
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\Sem4Task27.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem4Task27\obj\Debug\net7.0\ref\Sem4Task27.dll

@@ -7,7 +7,7 @@ int ReadData(string msg)
     int num = int.Parse(Console.ReadLine() ?? "0");
     return num;
 }
-// Находим квадрат числа N
+// Находим квадрат числа
 string BuildLine(int n, int Pow)
 {
     string res = "";
