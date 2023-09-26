@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem5Task33\bin\Debug\net7.0\Sem5Task33.exe
+F:\GB\c#\gruppa4972\Sem5Task33\bin\Debug\net7.0\Sem5Task33.deps.json
+F:\GB\c#\gruppa4972\Sem5Task33\bin\Debug\net7.0\Sem5Task33.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem5Task33\bin\Debug\net7.0\Sem5Task33.dll
+F:\GB\c#\gruppa4972\Sem5Task33\bin\Debug\net7.0\Sem5Task33.pdb
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.dll
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\refint\Sem5Task33.dll
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.pdb
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\Sem5Task33.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem5Task33\obj\Debug\net7.0\ref\Sem5Task33.dll

@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem5Task37\bin\Debug\net7.0\Sem5Task37.exe
+F:\GB\c#\gruppa4972\Sem5Task37\bin\Debug\net7.0\Sem5Task37.deps.json
+F:\GB\c#\gruppa4972\Sem5Task37\bin\Debug\net7.0\Sem5Task37.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem5Task37\bin\Debug\net7.0\Sem5Task37.dll
+F:\GB\c#\gruppa4972\Sem5Task37\bin\Debug\net7.0\Sem5Task37.pdb
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.dll
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\refint\Sem5Task37.dll
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.pdb
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\Sem5Task37.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem5Task37\obj\Debug\net7.0\ref\Sem5Task37.dll
