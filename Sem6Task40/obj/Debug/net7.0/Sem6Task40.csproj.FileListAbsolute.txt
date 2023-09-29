@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem6Task40\bin\Debug\net7.0\Sem6Task40.exe
+F:\GB\c#\gruppa4972\Sem6Task40\bin\Debug\net7.0\Sem6Task40.deps.json
+F:\GB\c#\gruppa4972\Sem6Task40\bin\Debug\net7.0\Sem6Task40.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem6Task40\bin\Debug\net7.0\Sem6Task40.dll
+F:\GB\c#\gruppa4972\Sem6Task40\bin\Debug\net7.0\Sem6Task40.pdb
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.dll
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\refint\Sem6Task40.dll
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.pdb
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\Sem6Task40.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem6Task40\obj\Debug\net7.0\ref\Sem6Task40.dll
