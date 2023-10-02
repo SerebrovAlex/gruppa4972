@@ -1,0 +1,14 @@
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.AssemblyInfoInputs.cache
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.AssemblyInfo.cs
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.csproj.CoreCompileInputs.cache
+F:\GB\c#\gruppa4972\Sem8Task58\bin\Debug\net7.0\Sem8Task58.exe
+F:\GB\c#\gruppa4972\Sem8Task58\bin\Debug\net7.0\Sem8Task58.deps.json
+F:\GB\c#\gruppa4972\Sem8Task58\bin\Debug\net7.0\Sem8Task58.runtimeconfig.json
+F:\GB\c#\gruppa4972\Sem8Task58\bin\Debug\net7.0\Sem8Task58.dll
+F:\GB\c#\gruppa4972\Sem8Task58\bin\Debug\net7.0\Sem8Task58.pdb
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.dll
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\refint\Sem8Task58.dll
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.pdb
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\Sem8Task58.genruntimeconfig.cache
+F:\GB\c#\gruppa4972\Sem8Task58\obj\Debug\net7.0\ref\Sem8Task58.dll
